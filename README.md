@@ -8,7 +8,7 @@
 
 <p align="left">
 ✨ <b>Building WebApps since 2022.</b><br>
-📚 <b>I'm currently learning Node.js</b> <br>
+📚 <b>I'm currently learning Jasmine % karma</b> <br>
 🎯 <b>Goals: Become a full-stack developer (MEAN) and contribute to open-source projects.</b><br>
 🎲 <b>Fun fact: I turn coffee into clean, reusable code!</b> ☕💻
 </p>
