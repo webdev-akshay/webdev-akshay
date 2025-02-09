@@ -2,15 +2,15 @@
   
 <h1 align="left">Hey 👋 What's up?</h1>
 
-<p align="left">My name is Akshay Wakle and I'm an Angular Developer, from Pune.</p>
+<p align="left"><b>My name is Akshay Wakle and I'm an Angular Developer, from Pune.</b></b></p>
 
 <h2 align="left">About me</h2>
 
 <p align="left">
-✨ Building WebApps since 2022.<br>
-📚 I'm currently learning Node.js <br>
-🎯 Goals: Become a full-stack developer (MEAN) and contribute to open-source projects.<br>
-🎲 Fun fact: I turn coffee into clean, reusable code! ☕💻
+✨ <b>Building WebApps since 2022.</b><br>
+📚 <b>I'm currently learning Node.js</b> <br>
+🎯 <b>Goals: Become a full-stack developer (MEAN) and contribute to open-source projects.</b><br>
+🎲 <b>Fun fact: I turn coffee into clean, reusable code!</b> ☕💻
 </p>
 
 <h2 align="left">I code with</h2>
