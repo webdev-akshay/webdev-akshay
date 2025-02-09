@@ -50,8 +50,6 @@
 
   
 </div>
-###
-
 <div align="left">
   <a href="mailto:webdev.akshay@gmail.com" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
@@ -67,15 +65,7 @@
 </div>
 
 ###
-###
 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=webdev-akshay&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats Graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
 
 <h3 align="left">🔥   My Stats :</h3>
 
@@ -94,4 +84,24 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=webdev-akshay&theme=github-dark&hide_border=false" alt="GitHub Commit Graph" />
 
 ###
+## 🚀 GitHub Profile Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=webdev-akshay&theme=dracula&show_icons=true&include_all_commits=true&count_private=true&hide_border=false" height="150" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=webdev-akshay&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="GitHub Streak" />
+</p>
+
+## 📊 Contribution & Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=webdev-akshay&theme=github-dark&hide_border=false" width="550" height="220" alt="GitHub Commit Graph" />
+  <img src="https://github.com/webdev-akshay/webdev-akshay/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+## 🚀 Top Languages & Metrics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdev-akshay&layout=compact&langs_count=8&theme=dracula&hide_border=false" height="200" alt="Top Languages Graph" />
+  <img src="https://metrics.lecoq.io/webdev-akshay?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&isocalendar=1&lines=1&habits=1&stars=1&followup=1&activity=1&achievements=1&base.indepth=1&base.habits=1&repositories=1&repositories.pinned=5&config.timezone=Asia%2FCalcutta" alt="GitHub Metrics" />
+</p>
+
+
+
 
