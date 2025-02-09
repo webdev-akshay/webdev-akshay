@@ -75,12 +75,6 @@
 <h2 align="left">📊 Contribution & Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=webdev-akshay&theme=github-dark&hide_border=false" width="1000" height="220" alt="GitHub Commit Graph" />
-</p>
-
-<h2 align="left">🔥 My Contributions</h2>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=webdev-akshay&theme=github-dark&hide_border=false" alt="GitHub Commit Graph" />
 </p>
 
