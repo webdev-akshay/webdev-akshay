@@ -50,27 +50,39 @@
 
   
 </div>
+###
 
+<div align="left">
+  <a href="mailto:webdev.akshay@gmail.com" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
+</a>
+
+<a href="https://www.linkedin.com/in/akshay-wakle/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
+</a>
+
+<a href="https://x.com/akshay_sw13" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitter logo" />
+</a>
+</div>
+
+###
 ###
 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=webdev-akshay&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats Graph" />
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
+<h3 align="left">🔥   My Stats :</h3>
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitter logo" />
-
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=webdev-akshay&theme=github-dark&hide_border=false" width="1000" height="220" alt="GitHub Commit Graph" />
 </div>
 
 ###
@@ -83,12 +95,3 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=webdev-akshay&theme=github-dark&hide_border=false" width="550" height="220" alt="GitHub Commit Graph" />
-</div>
-
-###
